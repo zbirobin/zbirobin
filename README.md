@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zbirobin
-- 👀 I’m interested in Climate change, Data Science and Machine Learning
-- 🌱 I’m currently learning at EPFL
-- 💞️ I’m looking to collaborate on projects at the intersection of climate change and machine learning
+- 👀 I’m a PhD student at the ECEO lab at EPFL
+- 🌱 I’m working on applying machine learning on the environment.
 - 📫 How to reach me zbi.robin@gmail.com
 
 <!---
