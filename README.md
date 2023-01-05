@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zbirobin
 - 👀 I’m a PhD student in the ECEO lab at EPFL
-- 🌱 I’m working on applying machine learning on the environment.
+- 🌱 I’m working on applying machine learning to the environment.
 - 📫 How to reach me zbi.robin@gmail.com
 
 <!---
